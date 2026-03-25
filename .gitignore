@@ -1,0 +1,5 @@
+# Keep this repo clean — source code is private
+*.exe
+*.dll
+*.json
+*.log

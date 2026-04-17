@@ -1,19 +1,16 @@
 <div align="center">
 
-<img src="https://github.com/kingpin1dev/Daylight/releases/download/v3.2/Daylight_v3.2_Setup.exe" width="0" height="0">
-
 # 🌤️ Daylight
 
 **A Dynamic Island experience for Windows.**
 Bring the fluid, animated overlay from macOS right to your desktop.
 
-[![Release](https://img.shields.io/github/v/release/kingpin1dev/Daylight?color=4A90D9&label=Latest&style=for-the-badge)](https://github.com/kingpin1dev/Daylight/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows)](https://github.com/kingpin1dev/Daylight/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/kingpin1dev/Daylight/total?color=28a745&style=for-the-badge)](https://github.com/kingpin1dev/Daylight/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows)](https://apps.microsoft.com/detail/9P0JFN5L96VH?hl=tr-tr&gl=TR&ocid=pdpshare)
+[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Available%20Now-0078D4?style=for-the-badge&logo=microsoftedge)](https://apps.microsoft.com/detail/9P0JFN5L96VH?hl=tr-tr&gl=TR&ocid=pdpshare)
 
 <br>
 
-[**⬇️ Download**](https://github.com/kingpin1dev/Daylight/releases/latest) · [**📋 Releases**](https://github.com/kingpin1dev/Daylight/releases)
+[**🛒 Get it on Microsoft Store**](https://apps.microsoft.com/detail/9P0JFN5L96VH?hl=tr-tr&gl=TR&ocid=pdpshare)
 
 </div>
 
@@ -37,13 +34,11 @@ Bring the fluid, animated overlay from macOS right to your desktop.
 
 ### Requirements
 - Windows 10 or 11 **(64-bit)**
-- [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 ### Installation
 
-1. Download **`Daylight_v3.2_Setup.exe`** from [Releases](../../releases)
-2. Run the installer and follow the steps
-3. Daylight will appear at the **top center** of your screen — that's it
+1. Visit the [**Microsoft Store page**](https://apps.microsoft.com/detail/9P0JFN5L96VH?hl=tr-tr&gl=TR&ocid=pdpshare) and click **Get**
+2. Daylight will appear at the **top center** of your screen — that's it
 
 ---
 

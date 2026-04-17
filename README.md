@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🌤️ Daylight
+# 🌤️ Notchify
+### formerly Daylight
 
 **A Dynamic Island experience for Windows.**
 Bring the fluid, animated overlay from macOS right to your desktop.
@@ -38,7 +39,7 @@ Bring the fluid, animated overlay from macOS right to your desktop.
 ### Installation
 
 1. Visit the [**Microsoft Store page**](https://apps.microsoft.com/detail/9P0JFN5L96VH?hl=tr-tr&gl=TR&ocid=pdpshare) and click **Get**
-2. Daylight will appear at the **top center** of your screen — that's it
+2. Notchify will appear at the **top center** of your screen — that's it
 
 ---
 
